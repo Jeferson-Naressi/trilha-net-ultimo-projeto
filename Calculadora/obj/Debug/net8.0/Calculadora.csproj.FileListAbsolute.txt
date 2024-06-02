@@ -1,0 +1,43 @@
+C:\Users\Jeferson\Desktop\C#\trilha-net\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeferson\Desktop\C#\trilha-net\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Jeferson\Desktop\C#\trilha-net\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+C:\Users\Jeferson\Desktop\C#\trilha-net\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Jeferson\Desktop\C#\trilha-net\Calculadora\bin\Debug\net8.0\Calculadora.exe
+C:\Users\Jeferson\Desktop\C#\trilha-net\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+C:\Users\Jeferson\Desktop\C#\trilha-net\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+C:\Users\Jeferson\Desktop\C#\trilha-net\Calculadora\bin\Debug\net8.0\Calculadora.dll
+C:\Users\Jeferson\Desktop\C#\trilha-net\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+C:\Users\Jeferson\Desktop\C#\trilha-net\Calculadora\obj\Debug\net8.0\Calculadora.dll
+C:\Users\Jeferson\Desktop\C#\trilha-net\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+C:\Users\Jeferson\Desktop\C#\trilha-net\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+C:\Users\Jeferson\Desktop\C#\trilha-net\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+C:\Users\Jeferson\Desktop\C#\trilha-net\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
+C:\Users\Jeferson\Desktop\C#\trilha-net-Blindando Seu Código com TDD e Testes Unitários Usando .NET Core\Calculadora\bin\Debug\net8.0\Calculadora.exe
+C:\Users\Jeferson\Desktop\C#\trilha-net-Blindando Seu Código com TDD e Testes Unitários Usando .NET Core\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+C:\Users\Jeferson\Desktop\C#\trilha-net-Blindando Seu Código com TDD e Testes Unitários Usando .NET Core\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+C:\Users\Jeferson\Desktop\C#\trilha-net-Blindando Seu Código com TDD e Testes Unitários Usando .NET Core\Calculadora\bin\Debug\net8.0\Calculadora.dll
+C:\Users\Jeferson\Desktop\C#\trilha-net-Blindando Seu Código com TDD e Testes Unitários Usando .NET Core\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+C:\Users\Jeferson\Desktop\C#\trilha-net-Blindando Seu Código com TDD e Testes Unitários Usando .NET Core\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeferson\Desktop\C#\trilha-net-Blindando Seu Código com TDD e Testes Unitários Usando .NET Core\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Jeferson\Desktop\C#\trilha-net-Blindando Seu Código com TDD e Testes Unitários Usando .NET Core\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+C:\Users\Jeferson\Desktop\C#\trilha-net-Blindando Seu Código com TDD e Testes Unitários Usando .NET Core\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Jeferson\Desktop\C#\trilha-net-Blindando Seu Código com TDD e Testes Unitários Usando .NET Core\Calculadora\obj\Debug\net8.0\Calculadora.dll
+C:\Users\Jeferson\Desktop\C#\trilha-net-Blindando Seu Código com TDD e Testes Unitários Usando .NET Core\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+C:\Users\Jeferson\Desktop\C#\trilha-net-Blindando Seu Código com TDD e Testes Unitários Usando .NET Core\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+C:\Users\Jeferson\Desktop\C#\trilha-net-Blindando Seu Código com TDD e Testes Unitários Usando .NET Core\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+C:\Users\Jeferson\Desktop\C#\trilha-net-Blindando Seu Código com TDD e Testes Unitários Usando .NET Core\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
+C:\Users\Jeferson\Desktop\C#\trilha-net-ultimo-projeto\Calculadora\bin\Debug\net8.0\Calculadora.exe
+C:\Users\Jeferson\Desktop\C#\trilha-net-ultimo-projeto\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+C:\Users\Jeferson\Desktop\C#\trilha-net-ultimo-projeto\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+C:\Users\Jeferson\Desktop\C#\trilha-net-ultimo-projeto\Calculadora\bin\Debug\net8.0\Calculadora.dll
+C:\Users\Jeferson\Desktop\C#\trilha-net-ultimo-projeto\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+C:\Users\Jeferson\Desktop\C#\trilha-net-ultimo-projeto\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeferson\Desktop\C#\trilha-net-ultimo-projeto\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Jeferson\Desktop\C#\trilha-net-ultimo-projeto\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+C:\Users\Jeferson\Desktop\C#\trilha-net-ultimo-projeto\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Jeferson\Desktop\C#\trilha-net-ultimo-projeto\Calculadora\obj\Debug\net8.0\Calculadora.sourcelink.json
+C:\Users\Jeferson\Desktop\C#\trilha-net-ultimo-projeto\Calculadora\obj\Debug\net8.0\Calculadora.dll
+C:\Users\Jeferson\Desktop\C#\trilha-net-ultimo-projeto\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+C:\Users\Jeferson\Desktop\C#\trilha-net-ultimo-projeto\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+C:\Users\Jeferson\Desktop\C#\trilha-net-ultimo-projeto\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+C:\Users\Jeferson\Desktop\C#\trilha-net-ultimo-projeto\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
